@@ -4,4 +4,4 @@
 
 #### 😜 示例应用截图
 
-<img src="https://raw.githubusercontent.com/hujincan/Listlabs/blob/master/preview.gif"/>
+<img src="https://github.com/hujincan/Listlabs/blob/master/preview.gif?raw=true"/>
