@@ -1,5 +1,7 @@
-### 双列表联动示例应用
+### 💻 双列列表联动示例应用
 
-使用两个RecyclerView，代码非常简单。
+使用两个RecyclerView，代码非常简单。Java & Kotlin 两种语言。
 
-预览图如下
+#### 😜 示例应用截图
+
+<img src="https://raw.githubusercontent.com/hujincan/Listlabs/blob/master/preview.gif"/>
